@@ -1,20 +1,32 @@
-# Vuejs y One UI template
+# Node.js and Vue.js demo
 
-Front-end del demo para Exandal
+Objective: Create a web application using JavaScript
 
-## Instalación
+    1. Enter new raw products
+    2. Enter new products
+    3. Validation of the forms used
+    4. Reports
+
+# Vuejs and One UI template
+
+Frontend side of the project (In spanish)
+
+## Install
+
+Execute the command to install the required modules. 
+
 ```
 npm install
 ```
 
-Luego ejecutar el sgte. comando para levantar el servidor en el puerto 8080
+Then execute the command to start the server on the port 8000.
 
 ```
 npm run serve
 ```
 
-## Ejecución
+## Execution
 
-El front-end se encontrará en la URL:
+The frontend server should be running on:
 
 [http://localhost:8080/](http://localhost:8080/)
