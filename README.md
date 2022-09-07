@@ -11,7 +11,7 @@ Objective: Create a web application using JavaScript
 
 Frontend side of the project (In spanish)
 
-Backend side of the project: [https://github.com/gmllasacas/exandal_nodejs_server](URL)
+[Backend side of the project](https://github.com/gmllasacas/exandal_nodejs_server)
 
 ## Install
 
