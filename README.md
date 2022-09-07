@@ -10,6 +10,7 @@ Objective: Create a web application using JavaScript
 # Vuejs and One UI template
 
 Frontend side of the project (In spanish)
+[https://github.com/gmllasacas/exandal_nodejs_server](Backend side of the project)
 
 ## Install
 
